@@ -1,7 +1,8 @@
 # Donkey
 
 ### Position
-- SoftWare Developer , 
+- SoftWare Developer
+- Network Security Engineer
 - Content Producer 
   
 
