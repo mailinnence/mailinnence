@@ -2,7 +2,6 @@
 
 ### Position
 - SoftWare Developer
-- Network Security Engineer
 - Content Producer 
   
 
