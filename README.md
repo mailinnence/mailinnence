@@ -17,7 +17,7 @@
   
 
 ### Affiliated team 
-- Tear studio
+- Nunmool studio
 - TH studio
 
   
